@@ -34,41 +34,5 @@
         "description": "Tabii",
         "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Tabii.cs3",
         "name": "Tabii"
-    },
-    {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/2/21/Gain_Medya_logosu.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NediyoOluuum/Xrepo",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NediyoOluuum"
-        ],
-        "tvTypes": [
-            "Movie,TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Gain",
-        "description": "Gain",
-        "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Gain.cs3",
-        "name": "Gain"
-    },
-    {
-        "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NediyoOluuum/Xrepo",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NediyoOluuum"
-        ],
-        "tvTypes": [
-            "Movie,TvSeries,Live"
-        ],
-        "version": 1,
-        "internalName": "GolgeTV",
-        "description": "GolgeTV",
-        "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/GolgeTV.cs3",
-        "name": "GolgeTV"
     }
 ]
