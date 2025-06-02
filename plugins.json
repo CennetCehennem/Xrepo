@@ -34,5 +34,23 @@
         "description": "Tabii",
         "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Tabii.cs3",
         "name": "Tabii"
+    },
+    {
+        "iconUrl": "https://cricfy.net/wp-content/uploads/CricFy-TV.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/NediyoOluuum/Xrepo",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "NediyoOluuum"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries,Live"
+        ],
+        "version": 1,
+        "internalName": "Cricify",
+        "description": "Cricify",
+        "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Cricify.cs3",
+        "name": "Cricify"
     }
 ]
