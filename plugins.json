@@ -395,5 +395,23 @@
         "description": "JetFilmizle i\u00e7erikleri",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/JetFilmizle.cs3",
         "name": "JetFilmizle"
-    }
-]
+    },
+  {
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/0cengiz0/Xrepo",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Exxen",
+        "description": "Exxen",
+        "url": "https://raw.githubusercontent.com/0cengiz0/Xrepo/main/Exxen.cs3",
+        "name": "Exxen"
+    },
+  {
