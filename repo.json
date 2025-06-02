@@ -1,8 +1,8 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
+    "name": "NediyoOluuum",
+    "description": "Keyfine Göre",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/0cengiz0/Xrepo/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/refs/heads/main/plugins.json"
     ]
 }
