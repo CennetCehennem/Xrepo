@@ -36,7 +36,7 @@
         "name": "Tabii"
     },
     {
-        "iconUrl": "https://cricfy.net/wp-content/uploads/CricFy-TV.webp",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/2/21/Gain_Medya_logosu.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NediyoOluuum/Xrepo",
         "status": 1,
@@ -45,12 +45,12 @@
             "NediyoOluuum"
         ],
         "tvTypes": [
-            "Movie,TvSeries,Live"
+            "Movie,TvSeries"
         ],
         "version": 1,
-        "internalName": "Cricify",
-        "description": "Cricify",
-        "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Cricify.cs3",
-        "name": "Cricify"
+        "internalName": "Gain",
+        "description": "Gain",
+        "url": "https://raw.githubusercontent.com/NediyoOluuum/Xrepo/main/Gain.cs3",
+        "name": "Gain"
     }
 ]
